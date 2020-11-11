@@ -2,9 +2,9 @@
 Classification Case Study for Aircraft Engine Failure
 
 ### The Dataset provided by NASA contains three types of files
-train_FD001.txt (Training data) -->  It is the aircraft engine run-to-failure data.
-test_FD001.txt(Testing data) --> It is the aircraft engine operating data without failure events recorded.
-RUL_FD001.txt(Ground truth data) --> It contains the information of true remaining cycles for each engine in the testing data.
+1. train_FD001.txt (Training data) -->  It is the aircraft engine run-to-failure data.
+2. test_FD001.txt(Testing data) --> It is the aircraft engine operating data without failure events recorded.
+3. RUL_FD001.txt(Ground truth data) --> It contains the information of true remaining cycles for each engine in the testing data.
 
 ### Task
 The task is to predict whether a given Aircraft Engine will fail within next 30 cycles or not
